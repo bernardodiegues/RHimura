@@ -1,4 +1,4 @@
-## Olá! Me chamo Himura e sou estudante de TI! Seja bem vindo 👋
+## Olá! Me chamo Bernardo e sou estudante de TI! Seja bem vindo 👋
 
 - 👨‍💻 Dev em formação | Explorando o mundo do HTML, CSS e JavaScript
 - 🚀 Aprendendo um passo de cada vez, construindo projetos e ganhando experiência
@@ -67,19 +67,19 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RHimura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=bernardodiegues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHimura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardodiegues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12" 
   />
 
 </p> 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHimura/RHimura/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RHimura/RHimura/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RHimura/RHimura/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardodiegues/bernardodiegues/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardodiegues/bernardodiegues/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bernardodiegues/bernardodiegues/output/github-contribution-grid-snake.svg">
 </picture>
